@@ -11,5 +11,7 @@ Enjoy :D
 
 # Controls
 Left - A / Left Arrow
+
 Right - D / Right Arrow
+
 Jump - Space
